@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="write_post_here">Write post here</string>
+    <string name="save">Save</string>
+</resources>
